@@ -6,13 +6,4 @@ body {
             align-items: center;
             justify-content: center;
             height: 100vh; /* 画面の高さいっぱいに */
-        }
-
-        header {
-            text-align: center; /* タイトルを中央に設定 */
-            color: white; /* タイトルの文字色を白に設定 */
-        }
-
-        section {
-            color: white; /* セクションの文字色を白に設定 */
-        }
+}
